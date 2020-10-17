@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c62056a204cb8b42ba432ae3a12b4b4, type: 3}
   m_Name: Branch 2
   m_EditorClassIdentifier: 
-  dialogueID: 
-  DialogueLines: []
+  dialogueID: 3rd response
+  DialogueLines:
+  - I'm sorry to hear that.
   ResponseOption: []
